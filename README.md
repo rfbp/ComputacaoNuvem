@@ -1,4 +1,3 @@
-Okay, aqui está um resumo do conteúdo das apresentações, formatado para um arquivo README.md no GitHub:
 # Resumo: AZ-900 - Conceitos Básicos do Microsoft Azure
 
 Este documento resume o conteúdo das apresentações sobre os conceitos fundamentais da computação em nuvem, com foco no Microsoft Azure (AZ-900), ministrado por Valéria Baptista [source: 63].
@@ -65,7 +64,4 @@ Fornecer conhecimento básico sobre [source: 5]:
 * **Microsoft Learn (Módulos Relacionados):**
     * [Descrever conceitos de nuvem](https://learn.microsoft.com/training/modules/describe-cloud-compute/) (links específicos nos slides [source: 3])
     * [Descrever os benefícios de usar serviços de nuvem](https://learn.microsoft.com/training/modules/describe-benefits-use-cloud-services/) (links específicos nos slides [source: 3])
-
-
-Este resumo abrange os principais pontos das apresentações sobre conceitos e benefícios da nuvem, ideal para um README no GitHub.
 
